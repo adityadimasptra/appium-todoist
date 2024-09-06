@@ -1,0 +1,21 @@
+{
+  "name": "webdriverio-appium",
+  "type": "module",
+  "scripts": {
+    "wdio": "wdio run wdio.conf.js"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "@wdio/appium-service": "^9.0.7",
+    "@wdio/cli": "^9.0.7",
+    "@wdio/local-runner": "^9.0.7",
+    "@wdio/mocha-framework": "^9.0.6",
+    "@wdio/spec-reporter": "^9.0.7",
+    "appium": "^2.0.1",
+    "appium-uiautomator2-driver": "^3.7.8"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "uuid": "^10.0.0"
+  }
+}
