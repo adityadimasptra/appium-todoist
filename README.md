@@ -19,7 +19,7 @@ This project is set up for mobile application testing using [WebdriverIO](https:
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/adityadimasptra/appium-todoist.git
   cd appium-todoist
 ```
 
@@ -38,6 +38,7 @@ BASE_URL=https://api.todoist.com/rest/v2
 EMAIL=penguinads02@gmail.com
 PASSWORD=adsTodoist
 ```
+5. Please download the apk from [here](https://drive.google.com/file/d/1Hy8vzuThzX-dKZ0l-LtfF_gS4UpF2RB5/view?usp=sharing), after that please copy to `./app/android/`
 
 ## Running Test
 1. Create Vritual Device from android studio
