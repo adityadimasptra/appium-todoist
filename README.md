@@ -1,4 +1,5 @@
 # Mobile Automation using WebdriverIO and Appium
+Hello, my name is Aditya Dimas Saputra and i'am a candidate for QA Engineer in SleekFlow's. please feel free to review my test automation
 
 This project is set up for mobile application testing using [WebdriverIO](https://webdriver.io/) and [Appium](https://appium.io/). It supports both Android and iOS platforms for native and hybrid mobile apps.
 
